@@ -1,0 +1,27 @@
+pip3 install keras
+pip3 install tensorflow
+pip3 install --upgrade tensorflow
+Pip3 install h2o
+pip install requests
+pip install tabulate
+pip install "colorama>=0.3.8"
+pip install future
+pip3 install qt5
+pip install construct
+pip3 install construct==2.8.22
+pip install PyQt5
+pip install PyOpenGL
+pip install netifaces
+pip install scikit-learn
+pip install Theano
+pip install Dask 
+pip install NumPy
+pip install pandas
+pip install Numba
+pip install Matplotlib
+pip install Bokeh 
+pip install Datashader
+pip install Holoviews
+pip install Scipy
+pip install jupyter
+pip install dlib (otro tipo de detección)
